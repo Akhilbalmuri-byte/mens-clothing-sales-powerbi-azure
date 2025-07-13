@@ -1,12 +1,9 @@
-A Power BI project that visualizes men's clothing sales data using Azure SQL Database, focused on revenue trends and customer behavior.
 
-
-
-
-# 👔 Men’s Clothing Sales Analysis – Azure SQL Database
 
 ## 📌 Overview
 This dashboard visualizes sales data for men’s clothing, powered by **Azure SQL Database**. The report highlights business insights for improving inventory, promotions, and customer satisfaction.
+
+# 👔 Men’s Clothing Sales Analysis – Azure SQL Database
 
 ## 📊 Key Features
 - Total revenue and profit by category
